@@ -7,6 +7,5 @@ edition = "2018"
 [dependencies]
 rocksdb = ""
 serde = ""
-serde_derive = ""
-serde_json = ""
+bincode = ""
 lazy_static = ""

@@ -1,3 +1,8 @@
+pub mod store;
+
+#[macro_use]
+extern crate lazy_static;
+
 #[cfg(test)]
 mod tests {
     #[test]
